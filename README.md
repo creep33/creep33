@@ -6,9 +6,8 @@
 - 🏆: eJPT
 
 ## 2022 Objetives
-- OSCP cert.
+- OSCP & OSWP cert.
 - Learn more cybersecurity areas.
-- Become a 42 Student.
 
 ---
 
