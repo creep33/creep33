@@ -6,7 +6,7 @@
 - 🏆: eJPT
 
 ## 2022 Objetives
-- OSCP & OSWP cert.
+- OSCP & OSWP & KLCP cert.
 - Learn more cybersecurity areas.
 
 ---
