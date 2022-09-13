@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @creep33
 - 💲 I’m currently learning Cybersecurity
 - 📖 I'm interested in Red Team and offensive security
-- 🏆: eJPT
+- 🏆: OSCP (WIP), OSWP, eJPT
 - 🌐: www.creep33.com
 
 ## 2022 Objetives
