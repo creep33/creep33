@@ -7,7 +7,7 @@
 - 🌐: www.creep33.com
 
 ## 2022 Objetives
-- OSCP & OSWP & KLCP cert.
+- OSCP cert.
 - Learn more cybersecurity areas.
 
 ---
