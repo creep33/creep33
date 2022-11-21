@@ -1,14 +1,13 @@
 # About Me
 
 - 👋 Hi, I’m @creep33
-- 💲 I’m currently learning Cybersecurity
-- 📖 I'm interested in Red Team and offensive security
+- 💲 Learning and Working - Cybersecurity
+- 📖 Interested in Red Team and offensive security
 - 🏆: OSCP (WIP), OSWP, eJPT
 - 🌐: www.creep33.com
 
 ## 2022 Objetives
 - OSCP cert.
-- Learn more cybersecurity areas.
 
 ---
 
